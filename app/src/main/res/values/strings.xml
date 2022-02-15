@@ -576,7 +576,7 @@
     <string	name="contributors_07"	translatable="true">DZIĘKI DLA WSZYSTKICH WSPIERAJĄCYCH! ❤️</string>
 	
     <string	name="download_selected_07"	translatable="true">Wybrałeś tę zmodyfikowaną wersję. Czy chcesz kontynuować?</string>
-    <string	name="download_ready_07"	translatable="true">INFORMACJE O ŁATACH</string>
+    <string	name="download_ready_07"	translatable="true">INFORMACJE O MODZIE</string>
     <string	name="download_ready_desc_07"	translatable="true">Pobranie tego zmodyfikowanego pliku APK spowoduje nadpisanie poprzedniego pliku znajdującego się w katalogu pobierania aplikacji.</string>
 	<string	name="downloading_file_07"	translatable="true">POBIERAM PLIK......</string>
     <string	name="download_success_07"	translatable="true">ZAKOŃCZONO POBIERANIE</string>
